@@ -107,6 +107,7 @@
         1. 距離感の話
     4. [http://kousin242.sakura.ne.jp/maruhei/fff/デザインとは/ダイアグラム/時間地図の試み-4/](http://kousin242.sakura.ne.jp/maruhei/fff/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%A8%E3%81%AF/%E3%83%80%E3%82%A4%E3%82%A2%E3%82%B0%E3%83%A9%E3%83%A0/%E6%99%82%E9%96%93%E5%9C%B0%E5%9B%B3%E3%81%AE%E8%A9%A6%E3%81%BF-4/)
     5. 2100年の科学ライフ
+    6. 〈モータウン〉のデザイン(https://www.amazon.co.jp/dp/4815809100/ref=cm_sw_r_fm_api_i_tvWGEbB6RTWXA?fbclid=IwAR0vwVGFl9y4RenXy2MhF_1gZ1XIDKfq2j4zaxQPmotzQrFnomFeW2eYzcg)
 5. DIYと地方自治への参加性
     1. 「秋葉原」感覚で住宅を考える
     2. 趣都の誕生
@@ -118,17 +119,11 @@
     8. つるがしま
     9. 転勤族
         1. その街のステークホルダーだれ？
-
-    [https://sarto.bz/](https://sarto.bz/)
-
-    マルシェのつくり方、使い方: 運営者・出店者のための教科書
-
-    建築家なしの建築
-
-    原っぱと遊園地―建築にとってその場の質とは何か
-
-    フラジャイル・コンセプト
-
+    10. [https://sarto.bz/](https://sarto.bz/)
+    11. マルシェのつくり方、使い方: 運営者・出店者のための教科書
+    12. 建築家なしの建築
+    13. 原っぱと遊園地―建築にとってその場の質とは何か
+    14. フラジャイル・コンセプト
 6. King Gnuを建築として見る
     1. S,M,L,XL＋
 7. 官能都市は定量評価が可能か
