@@ -107,7 +107,7 @@
         1. 距離感の話
     4. [http://kousin242.sakura.ne.jp/maruhei/fff/デザインとは/ダイアグラム/時間地図の試み-4/](http://kousin242.sakura.ne.jp/maruhei/fff/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%A8%E3%81%AF/%E3%83%80%E3%82%A4%E3%82%A2%E3%82%B0%E3%83%A9%E3%83%A0/%E6%99%82%E9%96%93%E5%9C%B0%E5%9B%B3%E3%81%AE%E8%A9%A6%E3%81%BF-4/)
     5. 2100年の科学ライフ
-    6. 〈モータウン〉のデザイン(https://www.amazon.co.jp/dp/4815809100/ref=cm_sw_r_fm_api_i_tvWGEbB6RTWXA?fbclid=IwAR0vwVGFl9y4RenXy2MhF_1gZ1XIDKfq2j4zaxQPmotzQrFnomFeW2eYzcg)
+    6. [〈モータウン〉のデザイン](https://www.amazon.co.jp/dp/4815809100/ref=cm_sw_r_fm_api_i_tvWGEbB6RTWXA?fbclid=IwAR0vwVGFl9y4RenXy2MhF_1gZ1XIDKfq2j4zaxQPmotzQrFnomFeW2eYzcg)
 5. DIYと地方自治への参加性
     1. 「秋葉原」感覚で住宅を考える
     2. 趣都の誕生
@@ -135,6 +135,8 @@
     6. 検証 平成建築史
     7. 都市のイメージ
     8. 街並みの美学
+    9. [まちなかの居心地の良さを測る指標（案）・概要](http://www.mlit.go.jp/report/press/content/001336041.pdf?fbclid=IwAR1qikHkFEj0-rWImiQi8GvZjkRdGS5_2AY0RlDjU_e2Qa7EpNoSd67l1eA)
+    10. [ファスト風土化する日本](https://www.amazon.co.jp/%E3%83%95%E3%82%A1%E3%82%B9%E3%83%88%E9%A2%A8%E5%9C%9F%E5%8C%96%E3%81%99%E3%82%8B%E6%97%A5%E6%9C%AC%E2%80%95%E9%83%8A%E5%A4%96%E5%8C%96%E3%81%A8%E3%81%9D%E3%81%AE%E7%97%85%E7%90%86-%E6%96%B0%E6%9B%B8y-%E4%B8%89%E6%B5%A6-%E5%B1%95/dp/4896918479)
 8. リモートワークと遊休不動産の可能性
     1. 建築と経営のあいだ
     2. 不動産プランナー流建築リノベーション
